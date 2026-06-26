@@ -1,6 +1,5 @@
 # java-design-patterns-and-oops
-Core Java OOP concepts with practical examples including inheritance, polymorphism, abstraction and interfaces.
-opics Covered
+Java OOP concepts and design patterns implemented with clean, well-structured examples.
 
 - Classes and Objects
 - Constructors

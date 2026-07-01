@@ -6,6 +6,18 @@ The goal of this repository is to strengthen Java fundamentals through clean cod
 
 ## Topics Covered
 
-- Object-Oriented Programming (OOP)
-- Exception Handling
-- Collections Framework
+### OOP
+
+- Classes & Objects
+- Constructors
+- Constructor Overloading
+
+### Exception Handling
+
+- Basics
+
+### Collections Framework
+
+- ArrayList
+- LinkedList
+- HashSet
